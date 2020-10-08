@@ -1,4 +1,4 @@
-# simpic
+# SimPIC
 
 Simple Particle-in-Cell miniapp demonstrates use of StarPU for heterogenous architectures. 
 
